@@ -47,4 +47,3 @@ Sinta-se à vontade para explorar e utilizar esta API para o gerenciamento de pr
     }
   }
 ]
-Tecnologias utilizadas
